@@ -1,0 +1,4 @@
+const FLUSH_CART = "FLUSH_CART";
+const ON_CART_UPDATE = "ON_CART_UPDATE";
+
+export { FLUSH_CART, ON_CART_UPDATE };
